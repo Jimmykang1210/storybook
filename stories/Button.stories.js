@@ -23,6 +23,10 @@ export default {
     backgrounds: {
       default: 'light',
     },
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/JyBqwhE0kYkcffyVZ8CFsk/storybook-test?type=design&mode=design&t=RDbHXgxzuo1UGpP3-0',
+    },
   },
 };
 
